@@ -1,0 +1,61 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: DevOps Engineer
+
+# your company information
+company:
+  name: Mitsogo Technologies
+  url: "https://www.mitsogo.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Highly skilled and experienced DevOps Engineer with expertise in cloud technologies. Proven track record of optimizing software development and deployment processes to drive efficiency and enhance scalability. Adept at managing cloud infrastructure and implementing CI/CD pipelines for seamless software delivery. Committed to fostering a collaborative and congenial work environment, ensuring smooth cross-functional team coordination. Passionate about leveraging cutting-edge technologies to streamline operations and deliver exceptional results in a convivial company setting.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/MaaHiN15"
+
+- name: Email
+  icon: "fas fa-envelope"
+  url: "contact@maahin.tech"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://linkedin.com/in/mahendranmaahin"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Collaboration
+  percentage: 85
+  color: green
+- name: Creativity
+  percentage: 90
+  color: green
+- name: Adaptability
+  percentage: 100
+  color: blue
+- name: Time management
+  percentage: 100
+  color: yellow
+  

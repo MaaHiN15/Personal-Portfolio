@@ -1,0 +1,38 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name:  Mitsogo Technologies
+    url: "https://mitsogo.com"
+    location: Chennai
+    overview: Mitsogo is home to Hexnode UEM, the award-winning Unified Endpoint Management solution that secures thousands of businesses globally. The solution offers 360-degree digital security to enterprises of all sizes.
+  positions:
+  - designation: DevOps - Software Engineer
+    start: June 2023
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
+
+- company:
+    name: C-DAC - Centre for Development of Advanced Computing 
+    url: "https://www.cdac.in"
+    location: Chennai
+    overview: C-DAC is the premier R&D organization of the Ministry of Electronics and Information Technology (MeitY) for carrying out R&D in IT, Electronics and associated areas.
+  positions:
+  - designation: Big data and Cloud Computing Intern
+    start: July 2022
+    end: Aug 2022
+    responsibilities:
+    - Interacted with Enterprise Level Professionals and Gained knowledge on Open Stack and its Components.
+    - Had interactions with different teams and attained grip in different technologies like Virtualization and Containerization.
+    - Had hands on training on structuring databases and worked on different skill development projects

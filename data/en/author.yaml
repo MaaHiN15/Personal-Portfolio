@@ -1,0 +1,17 @@
+# some information about you
+name: "Mahendran E"
+nickname: "Mahendran"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+image: "images/author/pic2.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "contact@maahin.tech"
+  phone: "+91 9442040094"
+  github: MaaHiN15
+  linkedin: mahendranmaahin
+# some summary about what you do
+summary:
+  - Love towards Cloud
+  - Love towards DevOps
+  - Love towards Web

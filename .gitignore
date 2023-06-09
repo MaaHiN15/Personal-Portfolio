@@ -1,0 +1,7 @@
+./node_modules/*
+.hugo_build.lock
+go.mod
+go.sum
+package-lock.json
+package.hugo.json
+node_modules
